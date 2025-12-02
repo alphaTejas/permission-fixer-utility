@@ -13,7 +13,7 @@
 # Safety:
 # - Defaults to dry-run (list violations only)
 # - Skips symlinks initially
-# - In fix mode, will ask for confirmation before changes (you can add later)
+# - In fix mode, will ask for confirmation before changes
 #
 # Author: Tejas Kumar K L
 
